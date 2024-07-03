@@ -41,7 +41,7 @@ torchsde==0.2.6
 clip-interrogator==0.6.0
 antlr4-python3-runtime==4.9.3
 requests==2.31.0
-tqdm==4.66.1
+tqdm==4.66.3
 accelerate==0.27.2
 opencv-contrib-python-headless==4.9.0.80
 diffusers==0.26.3
